@@ -2,7 +2,10 @@
 
 ## I'm Maik Costa!
 
-:computer: I'm Full Stacj Developer!
+🔭 I am currently working as an ERP TOTVS specialist 
+🌱 I’m currently learning Java, JavaScript and Python
+
+:computer: My desire is to start working with software development, I've been studying a lot for that!
 
 :house_with_garden: I’m from Brazil.
 
