@@ -12,9 +12,10 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: create a new project :construction_worker: [![Tag Pets](https://github.com/maikcosta/tagpets)](https://github.com/maikcosta/tagpets) and find a new job.
 
- 
+
+
 
 ## About me
 
