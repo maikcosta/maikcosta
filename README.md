@@ -21,7 +21,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maikcosta/)]( https://www.linkedin.com/in/maikcosta/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?maikcosta=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maikcosta&langs_count=8)](https://github.com/maikcosta/github-readme-stats)
 
 
 <!--
