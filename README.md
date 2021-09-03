@@ -21,6 +21,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maikcosta/)]( https://www.linkedin.com/in/maikcosta/)
 
+https://github-readme-stats.vercel.app/api?username={maikcosta}
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={maikcosta}
+
+https://github-readme-streak-stats.herokuapp.com/?user={maikcosta}
 
 
 - Thanks for visiting.
