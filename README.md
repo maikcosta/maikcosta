@@ -20,6 +20,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maikcosta)](https://github.com/maikcosta)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maikcosta/)]( https://www.linkedin.com/in/maikcosta/)
+<!--
 
 https://github-readme-stats.vercel.app/api?username={maikcosta}
 
@@ -31,7 +32,7 @@ https://github-readme-streak-stats.herokuapp.com/?user={maikcosta}
 - Thanks for visiting.
 
 - Enjoy it!! o/
-
+--!>
 <!--
 **maikcosta/maikcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
