@@ -2,17 +2,15 @@
 
 ## I'm Maik Costa!
 
-🔭 I am currently working as an ERP TOTVS specialist 
+🔭 I am currently working as an Software Engineer at Softexpert 
 
 🌱 I’m currently learning Java, JavaScript and Python
-
-:computer: My desire is to start working with software development, I've been studying a lot for that!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project :construction_worker: (https://github.com/maikcosta/tagpets) and find a new job.
+:outbox_tray: 2021 Goals: create a new project :construction_worker: (https://github.com/maikcosta/tagpets).
 
 
 
