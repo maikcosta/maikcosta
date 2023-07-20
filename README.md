@@ -2,7 +2,7 @@
 
 ## I'm Maik Costa!
 
-🔭 I am currently working as an Software Engineer at Softexpert 
+🔭 I am currently working as an Software Engineer at T2M
 
 🌱 I’m currently learning Java, JavaScript and Python
 
